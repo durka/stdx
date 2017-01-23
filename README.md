@@ -1021,7 +1021,7 @@ fn main() {
 Then execute the following:
 
 ```sh
-cargo run --example fitflags
+cargo run --example bitflags
 ```
 
 And suddenly you are a slightly-experienced user of that crate.
